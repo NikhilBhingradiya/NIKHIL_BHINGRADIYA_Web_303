@@ -1,0 +1,82 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+html,
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-color: rgb(95, 22, 4);
+}
+
+.accordion-panel {
+	display: none;
+
+}
+
+.tab-panel.active {
+	display: block;
+}
+
+ul.accordion {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+	font-size: large;
+}
+
+button.accordion-control {
+	background-color: rgb(232, 20, 20);
+	padding: 15px;
+	display: block;
+	width: 75%;
+	margin : 0 auto;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: large;
+}
+
+.accordion-panel {
+	display: none;
+	padding: 15px;
+	font-size: 1em;
+	font-size: 20px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+ul.tab-list {
+    padding-inline-start: 0px;
+}
+
+ul.tab-list li {
+	display: inline-block;
+	padding: 12px;
+	border: 5px solid rgba(11, 238, 87, 0.41);
+}
+
+a:link {
+	color:rgba(128, 197, 151, 0.41);
+	text-decoration: none;
+}
+
+ul.tab-list li.active {
+	background-color:rgb(68, 48, 22);
+}
+
+ul.tab-list li.active a {
+	color: rgb(185, 147, 224);
+}
+
+.tab-panel {
+	display: none;
+	width: 180px;
+	padding: 90px;
+	border: 3px solid rgba(38, 192, 90, 0.41);
+  	margin: 0 auto;
+}
+
+.tab-panel.active {
+	display: block;
+}
+
