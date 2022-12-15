@@ -1,0 +1,51 @@
+[{
+    "movie_Id":"0001",
+    "Action/Comedy":"Action",
+    "First_name":"WONDER WOMAN ",
+    "Director_name":"Patty Jenkins",
+    "Last_name":"Robin Wright"
+   },
+   {
+    "movie_Id":"0002",
+    "Action/Comedy":"Action",
+    "First_name":" JUSTICE LEAGUE",
+    "Director_name":"Zack Snyder",
+    "Last_name":"Amy Adams"
+  },
+  {
+    "movie_Id":"0003",
+    "Action/Comedy":"Action/Comedy",
+    "First_name":"AQUAMAN ",
+    "Director_name":"Patrick Wilson",
+    "Last_name":"James Wan"
+   },
+{
+    "movie_Id":"0004",
+    "Action/Comedy":"Action",
+    "First_name":"Black Panther: Wakanda Forever",
+    "Director_name":"Ptel",
+    "Last_name":"Nikhil Bhingradiya"
+   },
+{
+    "Movie_id":"0005",
+    "Action/Comedy":"Comedy",
+    "First_name":"Janeman",
+    "Director_name":"aaaaaaaa",
+    "Last_name":"chaklasiya"
+   },
+{
+    "movie_Id":"0006",
+    "Action/Comedy":"Action",
+    "First_name":"Noname",
+    "Director_name":"Dnamw",
+    "Last_name":"Lname"
+   },
+{
+    "movie_Id":"0007",
+    "Action/Comedy":"fuuny",
+    "First_name":"Iron_man",
+    "Director_name":"Marvel",
+    "Last_name":"Studio"
+   }
+
+]
